@@ -1,6 +1,6 @@
 {
   "id": "97803fd5-0912-47b4-aee1-87f34a3928e2",
-  "name": "base",
+  "name": "mcmoriginalslimited-base",
   "publisher": "InnoCorp",
   "version": "1.0.0.0",
   "brief": "",
@@ -13,11 +13,15 @@
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "24.0.0.0",
   "idRanges": [
     {
       "from": 50000,
       "to": 59999
+    },
+    {
+      "from": 60000,
+      "to": 62999
     }
   ],
   "features": [
